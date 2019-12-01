@@ -1,5 +1,4 @@
 import requests
-from Mapping import ApiModel
 from datetime import datetime
 
 class MachineLearning:
