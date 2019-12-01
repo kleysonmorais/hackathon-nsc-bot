@@ -1,0 +1,4 @@
+class user {
+    name, bairro
+
+}
